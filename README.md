@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there 👋 I am Crux. An aspiring Software Dev that's trying to get his 10,000 hours of programming in to master the fundmanetals.
+🔭 I’m currently working on a Machine Learning Project that involves predicting outcomes of a game economy
+🌱 I’m currently learning Machine Learning and PHP/Laravel
+🤔 I’m looking for help with learning Machine Learning 
+💬 Ask me about anything
+⚡ Fun fact: I do intermitten fasting to manage staying in shape with long desk sitting sessions and I can fast for 36 hours no food relatively easily
 <!--
 **MNSCrux/MNSCrux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
