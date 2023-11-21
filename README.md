@@ -1,4 +1,5 @@
-### Hi there 👋 I am Crux. An aspiring Software Dev that's trying to get his 10,000 hours of programming in to master the fundmanetals.
+### About Me 👋 
+I am Crux. An aspiring Software Dev that's trying to get his 10,000 hours of programming in to master the fundmanetals.
 🔭 I’m currently working on a Machine Learning Project that involves predicting outcomes of a game economy
 🌱 I’m currently learning Machine Learning and PHP/Laravel
 🤔 I’m looking for help with learning Machine Learning 
