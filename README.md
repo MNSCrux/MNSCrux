@@ -1,7 +1,7 @@
 ### About Me 👋 
 I am Crux. An aspiring Software Dev that's trying to get his 10,000 hours of programming in to master the fundmanetals. <br>
 🔭 I’m currently working on a Machine Learning Project that involves predicting outcomes of a games economy. <br>
-🌱 I’m currently learning Machine Learning and PHP/Laravel. <br>
+🌱 I’m currently learning Machine Learning <br>
 🤔 I’m looking for help with learning Machine Learning. <br>
 💬 Ask me about anything. <br>
 ⚡ Fun fact: I do intermitten fasting to manage staying in shape with long desk sitting sessions and I can fast for 36 hours no food relatively easily. <br>
