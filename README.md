@@ -1,6 +1,6 @@
 ### About Me 👋 
-I am Crux. An aspiring Software Dev that's trying to get his 10,000 hours of programming in to master the fundmanetals. <br>
-🔭 I’m currently working on a Machine Learning Project that involves predicting outcomes of a games economy. <br>
+I am Naseh. An Full stack web developer that's trying to get his 10,000 hours of programming working with different web technologies. <br>
+
 <!--
 **MNSCrux/MNSCrux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
