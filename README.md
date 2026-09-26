@@ -10,7 +10,7 @@ A lot of my projects start because I have a problem I want to solve myself. I en
 
 **Languages**
 
-Python, Go, TypeScript, JavaScript, C, Java, SQL
+Python, Go, TypeScript, JavaScript, C/C++, Java, SQL
 
 **Web and Backend**
 
