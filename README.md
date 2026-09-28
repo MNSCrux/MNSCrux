@@ -14,7 +14,7 @@ Python, Go, TypeScript, JavaScript, C/C++, Java, SQL
 
 **Web and Backend**
 
-React, Next.js, Node.js, REST APIs, Prisma, Supabase, PostgreSQL, MongoDB
+React, Next.js, Node.js, REST APIs, Prisma, Supabase, PostgreSQL, MongoDB, Go
 
 **Machine Learning and Data**
 
